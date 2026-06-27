@@ -9,7 +9,7 @@
 |Hans Hummelmose| Weidekampsgade 5| 2300 København S|21659785 |hans.hummelmose@protonmail.com|
 |Inger Lykke Bülow | Stævnevej 7| 5700 Svendborg|30256876 |fam.bulow@gmail.com|
 |Margit Plougmann | Skolegade 37 B |7500 Holstebro |20290259 |margit.plougmann@privat.dk|
-|Preben Kirkegaard Kjølhede| Bergdalsgatan 24| S-584 35 Linköping|+46 (0)705688201|preben@kjolhede.se|
+|Preben Kirkegaard Kjølhede| Bergdalsgatan 24| S-584 35 Linköping|+46(0)705688201|preben@kjolhede.se|
 |(Ole) Kryger Kristensen | Hykkelbjergvej 38| 6940 Lem St. |20994480 | olekryger@hotmail.com|
 |Anne Grete Krog| Droslen 3| 6920 Videbæk |22446049 |agkrog50@hotmail.com|
 |Søren Lynggaard| Kirkegade 12| 2650 Hvidovre|42411064| soren@lynggaard.net|
