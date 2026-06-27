@@ -1,6 +1,7 @@
 # Klasselisten opdateret efter 50 års jubilæet juni 2026
 
 |Navn |Gade |By |Telefon |E-mail |
+|-----------------------|-----------------------|-----------------------|----------|-----------------------|
 |Troels Bertelsen |Bolderslevskovvej 24 |6392 Bolderslev |21602749 |bertelsentroels@gmail.com|
 |Ole Reppien Ditlefsen  |Dejret Bygade 15 |8420 Knebel |60659589| ole@holmuz.dk|
 |Geert Espersen |Anne Maries vej 10 | 9000 Aalborg|21657799|geertespersen@outlook.dk|
