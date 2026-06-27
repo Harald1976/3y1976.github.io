@@ -1,4 +1,4 @@
-# Klasselisten opdateret efter 50 års jubilæet juni 2026
+# Klasselisten opdateret ved 50 års jubilæet juni 2026
 
 | Navn | Gade | By | Telefon | E-mail |
 |-----------------------|-----------------------|-----------------------|----------|-----------------------|
