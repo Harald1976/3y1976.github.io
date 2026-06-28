@@ -19,7 +19,7 @@
 | Christen Fihl | Jellingvej 6 | 3650 Ølstykke | 22444877 | Christen@Fihl.net |
 | Poul Gerhard Pedersen | Stanghedevej 36, Dollerup | 8800 Viborg | 50805599 | poulgerhardpedersen@gmail.com |
 | Jesper Schlütter| Valmuevej 43 | 7500 Holstebro | 30252680 | fam@schlytter.dk |
-| Knud Stubkjær | - | - | 39401447 | knudstubkjaer@hotmail.com |
+| Knud Stubkjær | 2 Av. de la Madone | 98000 Monaco | +377 37787007 | knudstubkjaer@hotmail.com |
 | Birgitte Fløe | Fønsvej 32, Føns | 5580 Nr. Aaby | 20853557 | birgittefloe@icloud.com |
 
 Forsiden: [https://3y1976.github.io/](https://3y1976.github.io/)
